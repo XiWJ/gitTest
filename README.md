@@ -11,3 +11,11 @@ git branch -M develop
 git remote add origin https://github.com/xxxx/YYYY.git
 git push -u origin develop
 ```
+
+## 开发并合并
+```
+git pull
+git add .
+git commit -m "add testA.py"
+git push
+```
